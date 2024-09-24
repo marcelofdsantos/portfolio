@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Divina Pizza",
     description:
-      "A Divina Pizza é um aplicativo web que permite aos usuários explorar o cardápio de uma pizzaria, fazer pedidos online e ver detalhes sobre cada pizza. O aplicativo inclui funcionalidades como  ",
+      "A Divina Pizza é um aplicativo web que permite aos usuários explorar o cardápio de uma pizzaria, fazer pedidos online e ver detalhes sobre cada pizza.",
     image: "/images/pizzaria.jpg",
     tags: ["React", "Tailwind CSS", "Vite"],
     source: "https://divina-pizza.vercel.app/",

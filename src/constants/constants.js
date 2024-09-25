@@ -1,8 +1,8 @@
 export const projects = [
   {
-    title: "Burguer Star",
+    title: "Burger Star",
     description:
-      "Burguer Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS. Oferece um cardápio interativo de hambúrgueres com alternância automática entre modos claro e escuro. Utiliza Vite para performance rápida e TailwindCSS para um design moderno e responsivo.",
+      "Burger Star é uma aplicação web desenvolvida com React, Vite e TailwindCSS. Oferece um cardápio interativo de hambúrgueres com alternância automática entre modos claro e escuro. Utiliza Vite para performance rápida e TailwindCSS para um design moderno e responsivo.",
     image: "/images/buguer.png",
     tags: ["React", "Tailwind CSS", "Vite"],
     source: "https://burguer-star.vercel.app/",
